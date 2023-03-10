@@ -1,7 +1,7 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
+### First and Last Name: Daniel Siropoulos
+### University Registration Number: dpsd19124
 ### GitHub Personal Profile: xxx
 ### Digital-Storytelling-Individual-Assignment: xxx
 
