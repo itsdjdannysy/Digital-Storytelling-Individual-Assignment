@@ -30,9 +30,15 @@ unit 5 Έκανα χρήση του πακέτου από το Unit5 και πρ
 
 unit 6    Έκανα χρήση του πακέτου από το Unit5 και πρόσθεσα εφέ στην εικόνα σύμφωνα με τις οδηγίες από το tutorial: https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75 & διαφοροποίησα τις τιμές στα εφέ αλλάζοντας την εικόνα και την ατμόσφαιρα της παρακάτω σκηνής. 
 
+ 
 ![Capture2](https://user-images.githubusercontent.com/84547304/236009239-3aad919e-7f40-41b6-93c4-17fe891d2155.PNG)
 ![Capture](https://user-images.githubusercontent.com/84547304/236009244-ce2df580-f80c-48fe-984e-77afdf5e8707.PNG)
 
+Ακόμη άλλαξα τα χρώματα στον αναδυόμενο καπνό
+
+![Capture5](https://user-images.githubusercontent.com/84547304/236017661-f16abfb0-ef37-44c2-9c9c-20d510f45262.PNG)
+![Capture6](https://user-images.githubusercontent.com/84547304/236017669-b02fa0bf-4792-4e6e-81fd-65b6a6ebcd08.PNG)
+![Capture3](https://user-images.githubusercontent.com/84547304/236017673-6fd84b50-5afc-4008-a046-e9b4a03a38d6.PNG)
 
 
 # 3rd Deliverable 
