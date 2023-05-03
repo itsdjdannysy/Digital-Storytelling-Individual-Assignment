@@ -25,6 +25,15 @@
 
 # 2nd Deliverable
 
+unit 5 Έκανα χρήση του πακέτου από το Unit5 και πρόσθεσα εφέ στην εικόνα σύμφωνα με τις οδηγίες από το tutorial: https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75 . 
+Χρησιμοποιώντας το iMovie πρόσθεσα φίλτρο και ήχο με κάποια εφέ τα οποία υπήρχαν ήδη από το πρόγραμμα. 
+
+unit 6    Έκανα χρήση του πακέτου από το Unit5 και πρόσθεσα εφέ στην εικόνα σύμφωνα με τις οδηγίες από το tutorial: https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75 & διαφοροποίησα τις τιμές στα εφέ αλλάζοντας την εικόνα και την ατμόσφαιρα της παρακάτω σκηνής. 
+
+![Capture2](https://user-images.githubusercontent.com/84547304/236009239-3aad919e-7f40-41b6-93c4-17fe891d2155.PNG)
+![Capture](https://user-images.githubusercontent.com/84547304/236009244-ce2df580-f80c-48fe-984e-77afdf5e8707.PNG)
+
+
 
 # 3rd Deliverable 
 
