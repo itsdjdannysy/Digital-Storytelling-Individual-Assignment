@@ -43,8 +43,12 @@ unit 6    Έκανα χρήση του πακέτου από το Unit5 και �
 
 # 3rd Deliverable 
 
+Χρησιμοποίησα από το tutorial για το unit 7 τον αντίστοιχο φάκελο zip https://learn.unity.com/project/unit-7-effects-and-final-render?uv=2019.4&courseId=5ee00851edbc2a0022274f75 & ακολουθώντας το tutorial βήμα προς βήμα δημιούργησα στην σκηνή με το κυνηγητό του σκύλου και της γάτας.  
 
 # Conclusions
 
 
+
 # Sources
+
+https://learn.unity.com/course/real-time-animated-storytelling?uv=2019.4
